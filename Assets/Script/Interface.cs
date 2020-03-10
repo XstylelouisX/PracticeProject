@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class Interface : MonoBehaviour
 {
-    //更改
     interface ISampleInterface
     {
         void SampleMethod();
